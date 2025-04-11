@@ -1,7 +1,7 @@
 
 <h1>Data protection and Security in Business Contracts</h1>
 <h2>Introduction</h2>
-Welcome to this respository, a resource dedicated to helping business integrate strong data protection and security measures into their contract. Whether drafting agreements, reviewing vendor security obligations, or ensuring compliance with regulations, this guide provides practical insights and best practices.
+Welcome to this repository, a resource dedicated to helping business integrate strong data protection and security measures into their contract. Whether drafting agreements, reviewing vendor security obligations, or ensuring compliance with regulations, this guide provides practical insights and best practices.
 <br />
 <h2>Topics</h2>
 
@@ -32,6 +32,5 @@ Welcome to this respository, a resource dedicated to helping business integrate 
 ## **License & Disclaimer**
 This content is provided under the **MIT License**, allowing you to use, modify, and share it with proper attribution.
 ### ** Disclaimer:**
-This project is provided **as-is**, without any warranties or guarantees. The author **no responsibility** for any issues, damages,or legal consequences arising from the use of this content. Users should consult legal professionals before implementing any contractual or security related clauses.
-
+This project is provided **as is**, without any warranties or guarantees. The author assumes **no responsibility** for any issues, damages,or legal consequences arising from the use of this content. Users should consult legal professionals before implementing any contractual or security related clauses.
 
